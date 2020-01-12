@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Bitchin App</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_login">Login</string>
+    <string name="login">LOGIN</string>
+    <string name="title_activity_start">Start</string>
+    <string name="title_activity_selector">Select</string>
+    <string name="title_activity_input">Input</string>
+    <string name="google_maps_API_key">AIzaSyCs9oCN6v-X4RMXueogA7JCDnUJlW1e30k</string>
+    <string name="rb1">Normal</string>
+    <string name="rb2">Hybrid</string>
+    <string name="rb3">Satellite</string>
+    <string name="rb4">Terrain</string>
+    <string name="latitude">latitude</string>
+    <string name="name">name</string>
+    <string name="longtitude">longtitude</string>
+    <string name="send_info">Send Info</string>
+    <string name="show_map">Show Map</string>
+    <string name="add_marker">Add marker</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="attempts_left">Attempts Left:</string>
+    <string name="exit">EXIT</string>
+    <string name="Location">Location</string>
+    <string name="Firstname">Firstname</string>
+    <string name="Lastname">Lastname</string>
+    <string name="Email">E-mail</string>
+    <string name="Signup">SignUp</string>
+    <string name="Back" >Back</string>
+    <string name="Start">Start</string>
+    <string name="Login">Login</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="description">Description</string>
+
+
+</resources>
